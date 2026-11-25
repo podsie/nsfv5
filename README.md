@@ -15,7 +15,16 @@ The start page has a button for each file. You can also drag both onto the page,
 
 ## Where the simulation files are
 
-`simulations/` has one folder for each date, and each folder has the pairs of that date.
+Download them from the releases: https://github.com/podsie/nsfv5/releases
+
+Each release is one simulation run. It has two files with the same name:
+
+```
+one-attempt-18-weeks.answers.tsv
+one-attempt-18-weeks.decisions.jsonl
+```
+
+To use them with the dev server, put them in `simulations/<date>/`:
 
 ```
 simulations/
@@ -24,13 +33,7 @@ simulations/
     one-attempt-18-weeks.decisions.jsonl
 ```
 
-`simulations/README.md` says what each pair is.
-
-Git does not hold these files. The pair is 509 MB and 1 GB, and GitHub refuses a file over 100 MB.
-
-Download them from the repository's releases: https://github.com/podsie/nsfv5/releases
-
-Put downloaded pairs in `simulations/<date>/` with the names above.
+`simulations/README.md` describes each run.
 
 ## Use the GitHub page with downloaded files
 

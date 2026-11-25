@@ -1,6 +1,8 @@
 # Simulations
 
-One folder for each date. Each run has two files that share a name: `<name>.answers.tsv` and `<name>.decisions.jsonl`. Git does not hold the files.
+Download the files from the releases: https://github.com/podsie/nsfv5/releases
+
+One folder for each date. Each run has two files with the same name: `<name>.answers.tsv` and `<name>.decisions.jsonl`.
 
 ## 2026-11-25
 
