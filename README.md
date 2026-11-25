@@ -34,7 +34,7 @@ Put downloaded pairs in `simulations/<date>/` with the names above.
 
 ## Use the GitHub page with downloaded files
 
-1. Open the site's address. For a project site it is `https://<owner>.github.io/<repository name>/`.
+1. Open https://podsie.github.io/nsfv5/.
 2. Choose the `.answers.tsv` file and the `.decisions.jsonl` file of one run, or drag both onto the page.
 3. To change a file later, use "Open another" beside its name in the page header.
 
