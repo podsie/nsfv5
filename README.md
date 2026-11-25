@@ -28,7 +28,7 @@ simulations/
 
 Git does not hold these files. The pair is 509 MB and 1 GB, and GitHub refuses a file over 100 MB.
 
-- Open question: where to download the simulation files from. The files are only on the computer that ran the simulation.
+Download them from the repository's releases: https://github.com/podsie/nsfv5/releases
 
 Put downloaded pairs in `simulations/<date>/` with the names above.
 
